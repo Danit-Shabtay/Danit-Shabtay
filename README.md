@@ -7,7 +7,6 @@
 </div>
 <br />
 
-
 <p align="left">
   <i> Contact Me </i>
   
@@ -16,6 +15,3 @@
    [![Gmail Badge](https://img.shields.io/badge/-danishagan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishagan@gmail.com)](mailto:danishagan@gmail.com)
    
 </p>
-   
-  
-
