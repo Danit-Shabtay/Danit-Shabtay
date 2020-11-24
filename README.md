@@ -2,11 +2,17 @@
 #### B.Sc Computer Science student & Looking for Software Development role.
 <br />
 
-[My Resume](https://drive.google.com/file/d/1sHicx-Y-4w4wypyoZ33ZSk2erjzzGuXo/view?usp=sharing) 📝
-<br />
 
-[<img align="left" alt="LinkedIn | LinkedIn" height="29px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin] 
-[<img align="left" alt="Gmail | Gmail" height="32px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
+<p align="center">
+  <i> Contact Me </i>
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-danit-shagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danit-shagan/)](https://www.linkedin.com/in/danit-shagan/) 
+ 
+   [![Gmail Badge](https://img.shields.io/badge/-danishagan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishagan@gmail.com)](mailto:danishagan@gmail.com)
+   
+   [![Medium Badge](https://img.shields.io/badge/-My-Resume-000000?style=flat&labelColor=000000&logo=Medium&link=https://drive.google.com/file/d/1sHicx-Y-4w4wypyoZ33ZSk2erjzzGuXo/view?usp=sharing)](https://drive.google.com/file/d/1sHicx-Y-4w4wypyoZ33ZSk2erjzzGuXo/view?usp=sharing) 
+   
+</p>
+   
+  
 
-[linkedin]: https://www.linkedin.com/in/danit-shagan/
-[gmail]: mailto:danishagan@gmail.com
