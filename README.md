@@ -6,9 +6,10 @@
 <p align="left">
   <i> Contact Me </i>
   
+   [![Website Badge](https://img.shields.io/badge/-MyResume-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drive.google.com/file/d/1sHicx-Y-4w4wypyoZ33ZSk2erjzzGuXo/view)](https://drive.google.com/file/d/1sHicx-Y-4w4wypyoZ33ZSk2erjzzGuXo/view) 
    [![Linkedin Badge](https://img.shields.io/badge/-danitShagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danit-shagan-62b671192/)](https://www.linkedin.com/in/danit-shagan-62b671192/) 
- 
    [![Gmail Badge](https://img.shields.io/badge/-danishagan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishagan@gmail.com)](mailto:danishagan@gmail.com)
+    [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
 
 </p>
    
