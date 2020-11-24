@@ -2,6 +2,10 @@
 #### B.Sc Computer Science student & Looking for Software Development role.
 <br />
 
+<div class="container">
+  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/DS.gif" alt="gif"</img>
+</div>
+
 
 <p align="left">
   <i> Contact Me </i>
