@@ -3,8 +3,9 @@
 <br />
 
 <div class="container">
-  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/DS.gif" alt="gif"</img>
+  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/DS.gif" height='300' width='500' alt="gif"</img>
 </div>
+<br />
 
 
 <p align="left">
