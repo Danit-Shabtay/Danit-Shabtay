@@ -3,7 +3,7 @@
 <br />
 
 <div class="container">
-  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/DS.gif" height='300' width='550' alt="gif"</img>
+  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/DanitS.gif" height='300' width='550' alt="gif"</img>
 </div>
 <br />
 
