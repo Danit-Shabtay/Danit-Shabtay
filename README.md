@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Danit Shagan.
+### Hi there 👋 I'm Danit Shagan.
 #### B.Sc Computer Science student & Looking for Software Development role.
 <br />
 
