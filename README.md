@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Danit Shagan.
-#### B.Sc Computer Science student & Love building things in my free time.
 <br />
 
 <div class="container">
