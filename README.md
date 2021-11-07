@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Danit Shagan.
+### Hi there 👋 I'm Danit Shabtay.
 <br />
 
 <div class="container">
