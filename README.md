@@ -2,7 +2,7 @@
 <br />
 
 <div class="container">
-  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/Danit-S.gif" height='170' width='500' alt="gif"</img>
+  <img src="https://github.com/Danit-Shagan/Danit-shagan/blob/main/Danit-S.gif" height='180' width='500' alt="gif"</img>
 </div>
 <br />
 
